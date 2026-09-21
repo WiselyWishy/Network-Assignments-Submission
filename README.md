@@ -13,6 +13,7 @@ Faculty of Science, Kasetsart University — Semester 1, Academic Year 2569 (202
 | # | Assignment | Topic | File |
 |---|------------|-------|------|
 | 1 | Exercise 1 | IP subnetting — subnet mask calculation, address ranges, and host allocation | [`Exercise_1_IP_Subnetting.pdf`](Exercise_1_IP_Subnetting.pdf) |
+| 2 | Exercise 2 | Link-state and distance-vector routing — Dijkstra, Bellman-Ford, convergence, and count-to-infinity | [`6710450571_Link_State_Distance_Vector_Worksheet.pdf`](6710450571_Link_State_Distance_Vector_Worksheet.pdf) |
 
 ## Repository layout
 
@@ -20,4 +21,5 @@ Faculty of Science, Kasetsart University — Semester 1, Academic Year 2569 (202
 .
 ├── README.md
 └── Exercise_1_IP_Subnetting.pdf
+└── 6710450571_Link_State_Distance_Vector_Worksheet.pdf
 ```
